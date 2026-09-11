@@ -1,0 +1,96 @@
+<mxfile host="Electron">
+  <diagram name="Side-1" id="A35ENezloKSvoAK-tBMa">
+    <mxGraphModel dx="964" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-17" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-18" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Output: How many motors are carrying the package?" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-19" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="input: motorCount" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-20" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Output: How many kg of packages do we expect?" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-16" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="255" />
+              <mxPoint x="760" y="310" />
+              <mxPoint x="100" y="310" />
+              <mxPoint x="100" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="input: totalPackageWeight" vertex="1">
+          <mxGeometry height="60" width="140" x="600" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-15" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MOTOR_CAPACITY=12kg" vertex="1">
+          <mxGeometry height="40" width="160" x="120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-14" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="maxLoad=MOTOR_CAPACITY*motorCount" vertex="1">
+          <mxGeometry height="40" width="250" x="320" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-12" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="325" />
+              <mxPoint x="760" y="470" />
+              <mxPoint x="110" y="470" />
+              <mxPoint x="110" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-13" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="450" />
+              <mxPoint x="90" y="450" />
+              <mxPoint x="90" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="is totalPackageWeight&lt;br&gt;&amp;lt; maxLoad" vertex="1">
+          <mxGeometry height="110" width="140" x="600" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-22" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="output: Yes! the conveyor belt can carry the packages!" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-23" edge="1" parent="1" source="1Fo_hS3kUIb6Ngp3-8mE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Fo_hS3kUIb6Ngp3-8mE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="output: No. the conveyor belt cannot carry the packages!" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fo_hS3kUIb6Ngp3-8mE-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
